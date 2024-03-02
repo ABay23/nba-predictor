@@ -1,4 +1,6 @@
 data/
 data/standings/
 data/scores/
+.data/standings/
 .data/
+.data/scores/
